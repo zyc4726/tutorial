@@ -5,7 +5,10 @@ require_once("dbconn.php");
 $ques1=$_GET['Q1'];
 $ques2=$_GET['Q2'];
 $ques3=$_GET['Q3'];
-
+$ques15=$_GET['Q13'];
+$ques16=$_GET['Q14'];
+$ques17=$_GET['Q15'];
+$ques18=$_GET['Q16'];
 $ques15=$_GET['Q15'];
 $ques16=$_GET['Q16'];
 $ques17=$_GET['Q17'];
